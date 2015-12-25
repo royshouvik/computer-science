@@ -158,6 +158,8 @@ Courses | Duration | Effort
 [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)| 7 weeks | 5-7 hours/week
 [Principles of Reactive Programming](https://www.coursera.org/course/reactive)| 7 weeks | 5-7 hours/week
 [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | 6 weeks | 4-6 hours/week
+[6.092	- Introduction to Programming in Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010)| | 
+[6.170 - Lab in software engineering + Software studio](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-170-software-studio-spring-2013)| |
 
 ### Software Testing
 
